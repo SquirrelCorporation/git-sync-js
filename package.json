@@ -6,6 +6,7 @@
   "bugs": {
     "url": "https://github.com/linonetwo/git-sync-js/issues"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/linonetwo/git-sync-js.git"
